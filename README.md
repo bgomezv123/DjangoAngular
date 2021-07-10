@@ -1,1 +1,1 @@
-# DjangoAngular7
+# DjangoAngular
